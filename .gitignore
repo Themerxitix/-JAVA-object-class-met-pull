@@ -1,4 +1,5 @@
 # JetBrains IDE
+/.idea
 .idea/
 *.iml
 *.iws
